@@ -1,8 +1,5 @@
 package cn.lucups.stone;
 
-/**
- * µ¥´Ê
- */
 public abstract class Token {
 
     public static final Token EOF = new Token(-1) {

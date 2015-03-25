@@ -2,9 +2,6 @@ package cn.lucups.stone;
 
 import cn.lucups.stone.ast.ASTree;
 
-/**
- * “Ï≥£
- */
 public class StoneException extends RuntimeException {
 
     public StoneException(String m) {
